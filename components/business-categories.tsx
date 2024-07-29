@@ -209,8 +209,8 @@ export default function BusinessCategories() {
                       <Image
                         className="relative"
                         src={Logo03}
-                        width={22}
-                        height={22}
+                        width={33}
+                        height={33}
                         alt="Logo 03"
                       />
                     </div>
@@ -248,8 +248,8 @@ export default function BusinessCategories() {
                       <Image
                         className="relative"
                         src={Logo06}
-                        width={20}
-                        height={18}
+                        width={33}
+                        height={33}
                         alt="Logo 06"
                       />
                     </div>
@@ -287,8 +287,8 @@ export default function BusinessCategories() {
                       <Image
                         className="relative"
                         src={Logo09}
-                        width={21}
-                        height={13}
+                        width={33}
+                        height={33}
                         alt="Logo 09"
                       />
                     </div>

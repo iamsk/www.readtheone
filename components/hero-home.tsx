@@ -108,22 +108,22 @@ export default function HeroHome() {
                   </a>
                   <a
                     className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
-                    href="#0"
+                    href="/ipos"
                   >
-                    AI爱好者
+                    国内新股
                   </a>
-                  <a
-                    className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
-                    href="#0"
-                  >
-                    XR爱好者
-                  </a>
-                  <a
-                    className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
-                    href="#0"
-                  >
-                    More
-                  </a>
+                  {/*<a*/}
+                  {/*  className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"*/}
+                  {/*  href="#0"*/}
+                  {/*>*/}
+                  {/*  XR爱好者*/}
+                  {/*</a>*/}
+                  {/*<a*/}
+                  {/*  className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"*/}
+                  {/*  href="#0"*/}
+                  {/*>*/}
+                  {/*  More*/}
+                  {/*</a>*/}
                 </div>
               </div>
             </div>

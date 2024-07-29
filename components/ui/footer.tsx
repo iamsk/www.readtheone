@@ -118,7 +118,7 @@ export default function Footer({ border = false }: { border?: boolean }) {
               <li>
                 <Link
                   className="flex items-center justify-center text-blue-500 transition hover:text-blue-600"
-                  href="#0"
+                  href="https://github.com/iamsk/www.readtheone"
                   aria-label="Github"
                 >
                   <svg
