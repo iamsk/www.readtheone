@@ -110,7 +110,7 @@ export default function HeroHome() {
                     className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
                     href="/ipos"
                   >
-                    国内新股
+                    全球新股
                   </a>
                   {/*<a*/}
                   {/*  className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"*/}
