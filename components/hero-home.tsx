@@ -102,9 +102,9 @@ export default function HeroHome() {
                   </a>
                   <a
                     className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
-                    href="/news"
+                    href="https://trends.readtheone.com/"
                   >
-                    海外资讯
+                    赛道雷达
                   </a>
                   <a
                     className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
@@ -112,18 +112,18 @@ export default function HeroHome() {
                   >
                     全球新股
                   </a>
-                  {/*<a*/}
-                  {/*  className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"*/}
-                  {/*  href="#0"*/}
-                  {/*>*/}
-                  {/*  XR爱好者*/}
-                  {/*</a>*/}
-                  {/*<a*/}
-                  {/*  className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"*/}
-                  {/*  href="#0"*/}
-                  {/*>*/}
-                  {/*  More*/}
-                  {/*</a>*/}
+                  <a
+                    className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
+                    href="https://dat.readtheone.com/"
+                  >
+                    Digital Asset Treasuries
+                  </a>
+                  <a
+                    className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
+                    href="/news"
+                  >
+                    海外资讯
+                  </a>
                 </div>
               </div>
             </div>
